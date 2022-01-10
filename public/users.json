@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "A",
+    "age": 24,
+    "personalColor": "blue"
+  },
+  {
+    "id": 2,
+    "name": "B",
+    "age": 24,
+    "personalColor": "red"
+  },
+  {
+    "id": 3,
+    "name": "C",
+    "age": 28,
+    "personalColor": "blue"
+  },
+  {
+    "id": 4,
+    "name": "D",
+    "age": 40,
+    "personalColor": "red"
+  }
+]
